@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [react-capstone](https://github.com/Mohamed-Ahlam/react-capstone)
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Bootstrap, NodeJS**
 
 - 💬 Ask me about **react, JS, HTML**
 
