@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahlam Mohamed</h1>
 <h3 align="center">A passionate frontend developer from Minnesota, USA</h3>
 
-- 🔭 I’m currently working on [react-capstone](https://github.com/Mohamed-Ahlam/react-capstone)
+- 🔭 I’m currently working on building react native apps
 
 - 🌱 I’m currently learning **Bootstrap, NodeJS**
 
