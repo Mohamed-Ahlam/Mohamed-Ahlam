@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on [MindFlow](https://github.com/Mohamed-Ahlam/MindFlow.git)
 
-- 👨‍💻 All of my projects are available at [Updated Portfolio Coming Soon!](Updated Portfolio Coming Soon!)
-
+- 👨‍💻 All of my projects are available at [Updated Portfolio Coming Soon!]
+  
 - 💬 Ask me about **Frontend tools**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1nKSEHHnV9yX2n9-X6x-wsdmbh4bsyba_R4MyPGEgdeU/edit?tab=t.0](https://docs.google.com/document/d/1nKSEHHnV9yX2n9-X6x-wsdmbh4bsyba_R4MyPGEgdeU/edit?tab=t.0)
